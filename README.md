@@ -1,4 +1,4 @@
-# LoLScoreboard
+# area-screenshot
 Takes a screenshot of the selected area whenever TAB has been pressed.  
 Why? Because I want a LoL scoreboard on my second monitor without it blocking my view.
 
